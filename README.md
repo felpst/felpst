@@ -21,7 +21,3 @@
   </div>
 
 ---
-</br>
-![Snake animation](https://github.com/felpst/felpst/blob/output/github-contribution-grid-snake.svg)
-
----
